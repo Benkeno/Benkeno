@@ -1,5 +1,5 @@
 
-# Hi, I'm Ben! 👋
+# Hi ! 👋
 
   
 ## 🚀 About Me
