@@ -3,15 +3,15 @@
 
   
 ## 🚀 About Me
-I'm a hay-stack developer...
+1984 and i was kid...
 
 
 ## 🛠 Skills
-+ #### Python, C++, Java
-+ #### HTML/CSS/JS
-+ #### LPIC-I, Linux Server
-+ #### SolidWorks, 3D CAD
-+ #### Tinkering
++ #### Smart-Home
++ #### HomeLab security
++ #### Self-hosted
++ #### Linux Server, LPIC-1
++ #### Mesh Networks
 
   
 ## 🔗 Links
