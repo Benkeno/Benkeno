@@ -3,10 +3,10 @@
 
   
 ## 🚀 About Me
-1984 and i was kid...
+It was 1984 and i was kid...
 
 
-## 🛠 Skills
+## 🛠 Passion
 + #### Smart-Home
 + #### HomeLab security
 + #### Self-hosted
