@@ -7,9 +7,9 @@ It was 1984 and i was kid...
 
 
 ## 🛠 Passion
-+ #### Smart-Home Tinkering
++ #### Smart-Home 
 + #### IoT Microcontrollers
-+ #### HomeLab security
++ #### HomeLab 
 + #### Self-hosted
 + #### Linux Server, LPIC-1
 + #### Mesh Networks
