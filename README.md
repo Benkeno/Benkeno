@@ -7,12 +7,12 @@ It was 1984 and i was kid...
 
 
 ## 🛠 Passion
-+ #### Smart-Home 
-+ #### IoT Microcontrollers
-+ #### HomeLab 
 + #### Self-hosted
 + #### Linux Server, LPIC-1
 + #### Mesh Networks
++ #### Smart-Home 
++ #### IoT Microcontrollers
++ #### HomeLab
 
   
 ## 🔗 Links
