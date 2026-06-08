@@ -18,6 +18,7 @@ Interested in resilient storage, network segmentation, sensor-driven control loo
 * Self-hosted platforms & HomeLab architecture
 * Linux systems, Debian, systemd and shell automation
 * Proxmox VE, Ceph, ZFS and PBS
+* Small devices doing suspiciously useful things in the corner of the network
 * Docker, LXC, KVM/QEMU and service orchestration
 * Mesh networks, VLANs, routing, firewalling and network segmentation
 * ESP32, IoT devices, sensors, edge nodes and embedded automation
@@ -25,7 +26,7 @@ Interested in resilient storage, network segmentation, sensor-driven control loo
 * Monitoring with Prometheus, Grafana, InfluxDB and feedback-driven system control
 * Workflow automation, process management and reproducible operating models
 * Backup strategies, recovery planning and resilient storage
-* Active Directory, GPOs, FSLogix and hybrid Windows/Linux infrastructure
-* API-driven workflows on fully-local automation
+* Active Directory, GPOs, FSLogix and hybrid Windows/Linux Enterprise infrastructure
+* API-driven workflows on fully-local AI automation
 * Local AI tooling, OpenWebUI/Ollama experiments and agent-based control systems
-* Small devices doing suspiciously useful things in the corner of the network
+* 
