@@ -3,9 +3,9 @@
 
   
 ## 🚀 About Me
-I build and break things in my HomeLab so production systems don’t have to suffer.
-HomeLab gremlin with Linux servers, ESP32 toys, self-hosted services, mesh networks, AI workflows, incredible dashboards, backups of everything and too many blinking LEDs. 🐧📡
 
+HomeLab gremlin with Linux servers, ESP32 toys, self-hosted services, mesh networks, AI workflows, incredible dashboards, backups of everything and too many blinking LEDs. 🐧📡
+I build and break things in my HomeLab so production systems don’t have to suffer.
 ## 🛠 Passion
 
 Mostly found somewhere between Linux servers, tiny ESP32 devices, blinking sensors, self-hosted services, mesh networks and tinks that started as “just a quick idea” and somehow became infrastructure.
